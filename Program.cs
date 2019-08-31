@@ -12,7 +12,8 @@ namespace ConsoleApp1
         {
             int i;
             int j;
-            int c3
+            int c3;
+
         }
     }
 }
